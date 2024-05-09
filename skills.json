@@ -1,0 +1,248 @@
+[
+    {
+      "course": "Introduction to Programming Logic",
+      "skills": [
+        "Programming logic",
+        "Development techniques",
+        "Logic development tools",
+        "Documentation",
+        "Report layouts",
+        "Program testing"
+      ]
+    },
+    {
+      "course": "Employability Skills",
+      "skills": [
+        "Career goal alignment",
+        "Education plan alignment",
+        "Resume writing",
+        "Interviewing techniques",
+        "Workplace problem-solving",
+        "Networking with local employers",
+        "Understanding local employment opportunities"
+      ]
+    },
+    {
+      "course": "Beginning Webpage Development",
+      "skills": [
+        "Design and development of websites",
+        "XHTML",
+        "Style sheets",
+        "Web development exercises",
+        "CSS",
+        "HTML5"
+      ]
+    },
+    {
+      "course": "Python Programming",
+      "skills": [
+        "Python programming language",
+        "Visual Studio",
+        "Python"
+      ]
+    },
+    {
+      "course": "Java",
+      "skills": [
+        "Object-oriented programming concepts",
+        "Java",
+        "IntelliJ"
+      ]
+    },
+    {
+      "course": "COBOL",
+      "skills": [
+        "Structured COBOL programming",
+        "Microfocus COBOL",
+        "Visual Studio"
+      ]
+    },
+    {
+      "course": "Quality Assurance",
+      "skills": [
+        "Software quality assurance (SQA)",
+        "GitHub",
+        "Junit"
+      ]
+    },
+    {
+      "course": "Introduction to Database Concepts",
+      "skills": [
+        "Database concepts overview",
+        "Data management considerations",
+        "Data structures",
+        "Access methods",
+        "Lab exercises",
+        "SQL",
+        "Oracle APEX"
+      ]
+    },
+    {
+      "course": "Java II",
+      "skills": [
+        "Advanced object-oriented programming concepts",
+        "JAVA",
+        "Junit"
+      ]
+    },
+    {
+      "course": "JavaScript",
+      "skills": [
+        "Scripting languages",
+        "Dynamic web page creation",
+        "JavaScript"
+      ]
+    },
+    {
+      "course": "C#",
+      "skills": [
+        "C# programming language",
+        "SQL Server",
+        "Visual Studio"
+      ]
+    },
+    {
+      "course": "Java III",
+      "skills": [
+        "Advanced Java programming",
+        "Spring",
+        "XML",
+        "JSON",
+        "MySQL",
+        "JSP"
+      ]
+    },
+    {
+      "course": "User Experience Design",
+      "skills": [
+        "User interviews",
+        "Wireframing",
+        "Mock ups",
+        "Usability testing"
+      ]
+    },
+    {
+      "course": "Advanced .NET Programming",
+      "skills": [
+        "Advanced visual programming concepts",
+        "C#",
+        "ASP.NET Framework",
+        "SSRS",
+        "SQL Server",
+        "Stored Procedures",
+        "WPF",
+        "LINQ",
+        "Web Services/API",
+        "NUnit",
+        "Selenium"
+      ]
+    },
+    {
+      "course": "Intro to Business Analysis",
+      "skills": [
+        "Agile Development",
+        "Project Tracking/Management"
+      ]
+    },
+    {
+      "course": "Python with Data Structures",
+      "skills": [
+        "Advanced Python programming",
+        "MySQL",
+        "Python"
+      ]
+    },
+    {
+      "course": "Advanced C# Programming",
+      "skills": [
+        "ASP.NET Core",
+        "MVC",
+        "Razor Pages",
+        "Web Services/API",
+        "MongoDB",
+        "Azure",
+        "Entity Framework",
+        "SQL Server",
+        "Postman"
+      ]
+    },
+    {
+      "course": "Web Design",
+      "skills": [
+        "Web page creation and maintenance",
+        "Website design evaluation",
+        "Web design standards assessment",
+        "Image manipulation",
+        "Comprehensive website development",
+        "CSS",
+        "HTML5"
+      ]
+    },
+    {
+      "course": "PHP/APACHE/MYSQL",
+      "skills": [
+        "PHP programming",
+        "Apache Server usage",
+        "MySQL database interaction",
+        "Form processing",
+        "Cookies and sessions usage"
+      ]
+    },
+    {
+      "course": "Web Scripting",
+      "skills": [
+        "Dynamic web page creation",
+        "Client and server-side scripting",
+        "Web server installation and usage",
+        "Database interaction through web forms",
+        "AJAX",
+        "jQuery",
+        "Angular JS",
+        "GitHub",
+        "Python"
+      ]
+    },
+    {
+      "course": "Introduction to Web Frameworks",
+      "skills": [
+        "Web framework comparison",
+        "Web page development using frameworks",
+        "Model View Controller (MVC) architecture",
+        "Bootstrap",
+        "Vue.js",
+        "React.js",
+        "Angular.js"
+      ]
+    },
+    {
+      "course": "Cobol II",
+      "skills": [
+        "Structured COBOL programming",
+        "Cobol"
+      ]
+    },
+    {
+      "course": "Database Programming with DB2",
+      "skills": [
+        "Relational database programming",
+        "DB2"
+      ]
+    },
+    {
+      "course": "Cobol III",
+      "skills": [
+        "Advanced structured COBOL programming",
+        "Cobol",
+        "MVS/JCL",
+        "ISPF",
+        "FTP"
+      ]
+    },
+    {
+      "course": "Intro to 4GL Programming",
+      "skills": [
+        "Salesforce",
+        "4GL tool usage"
+      ]
+    }
+]  
